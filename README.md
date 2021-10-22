@@ -13,7 +13,7 @@ Correction:
     }
 - Méthode Multiplier: Correct : 15/15
 - Méthode Diviser: 15/15
-- Méthode SommeDesElementsDuTableau : tu n'as pas géré le cas de undefined et null : 14/20
-- Méthode ListeElementsMultipleDe2 : Tu devrais retourner undefined quand la valeur du tableau est undefined 19/20
+- Méthode SommeDesElementsDuTableau : tu n'as pas géré le cas de undefined et null : 16/20
+- Méthode ListeElementsMultipleDe2 : Tu devrais retourner undefined quand la valeur du tableau est undefined 18/20
 
-Total: 89/100
+Total: 90/100
